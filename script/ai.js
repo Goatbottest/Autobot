@@ -1,15 +1,15 @@
    const axios = require('axios');
 
    module.exports.config = {
-     name: "ai",
+     name: "chill ai",
      version: "1.0.0",
      hasPermssion: 0,
-     credits: "Eugene Aguilar",
-     description: "Interacts with a GPT-4 API",
+     credits: "churchill abing",
+     description: "POGI MO CHILL",
      usePrefix: false,
      commandCategory: "ai",
      usages: "[question]",
-     cooldowns: 5,
+     cooldowns: 3,
      dependencies: {
        "axios": ""
      }
